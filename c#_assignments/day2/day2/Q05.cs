@@ -26,7 +26,7 @@ namespace day2
                 sum += remainder;
 
             }
-            Console.WriteLine("the Sum of the digits of the number is :" + sum);
+            Console.WriteLine($"the Sum of the digits of the number is :{sum}");
             Console.WriteLine();
         }
          

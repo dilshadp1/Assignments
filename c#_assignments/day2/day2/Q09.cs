@@ -55,7 +55,7 @@ namespace day2
                 tax = 15;
             }
             taxAmount = tax/100 * amount;
-            Console.WriteLine("Tax for the amount: " + amount + " = " + taxAmount);
+            Console.WriteLine($"Tax for the amount: {amount} = {taxAmount}");
         }
     }
     

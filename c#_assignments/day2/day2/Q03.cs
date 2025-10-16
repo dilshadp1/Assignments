@@ -43,7 +43,7 @@ namespace day2
                 largest_num = num3;
             }
 
-            Console.WriteLine("largest number Among the three numbers is : " + largest_num);
+            Console.WriteLine($"largest number Among the three numbers is : {largest_num}");
         }
 
 
