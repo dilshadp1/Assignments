@@ -26,7 +26,7 @@ namespace day2
                 reverse = (reverse * 10) + remainder;
 
             }
-            Console.WriteLine("the reverse of the number is :" + reverse);
+            Console.WriteLine($"the reverse of the number is :{reverse}" );
             Console.WriteLine();
         }
          

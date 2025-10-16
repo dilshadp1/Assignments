@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\dilshad.p\\source\\repos\\day2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|c:\\users\\dilshad.p\\source\\repos\\day2\\day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|c:\\users\\dilshad.p\\source\\repos\\day2\\day2\\q02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|solutionrelative:day2\\q02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|c:\\users\\dilshad.p\\source\\repos\\day2\\day2\\q07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|solutionrelative:day2\\q07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|c:\\users\\dilshad.p\\source\\repos\\day2\\day2\\q01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|solutionrelative:day2\\q01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|c:\\users\\dilshad.p\\source\\repos\\day2\\day2\\q06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|solutionrelative:day2\\q06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|c:\\users\\dilshad.p\\source\\repos\\day2\\day2\\q08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|solutionrelative:day2\\q08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|c:\\users\\dilshad.p\\source\\repos\\day2\\day2\\q05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|solutionrelative:day2\\q05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|c:\\users\\dilshad.p\\source\\repos\\day2\\day2\\q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|solutionrelative:day2\\q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|c:\\users\\dilshad.p\\source\\repos\\day2\\day2\\q09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|solutionrelative:day2\\q09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|c:\\users\\dilshad.p\\source\\repos\\day2\\day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0863045F-E049-46AE-AA61-4D52A066EDD2}|day2\\day2.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Program.cs",
               "RelativeDocumentMoniker": "day2\\Program.cs",
               "ToolTip": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Program.cs",
               "RelativeToolTip": "day2\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T04:02:43.246Z",
               "IsPinned": true,
@@ -52,67 +48,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Q07.cs",
-              "DocumentMoniker": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q07.cs",
-              "RelativeDocumentMoniker": "day2\\Q07.cs",
-              "ToolTip": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q07.cs",
-              "RelativeToolTip": "day2\\Q07.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBMAAAANAAAA",
+              "DocumentIndex": 0,
+              "Title": "Q02.cs",
+              "DocumentMoniker": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q02.cs",
+              "RelativeDocumentMoniker": "day2\\Q02.cs",
+              "ToolTip": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q02.cs*",
+              "RelativeToolTip": "day2\\Q02.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:31:56.081Z",
+              "WhenOpened": "2025-10-16T05:54:28.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Q06.cs",
-              "DocumentMoniker": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q06.cs",
-              "RelativeDocumentMoniker": "day2\\Q06.cs",
-              "ToolTip": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q06.cs",
-              "RelativeToolTip": "day2\\Q06.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "DocumentIndex": 1,
+              "Title": "Q01.cs",
+              "DocumentMoniker": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q01.cs",
+              "RelativeDocumentMoniker": "day2\\Q01.cs",
+              "ToolTip": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q01.cs*",
+              "RelativeToolTip": "day2\\Q01.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:31:53.982Z",
+              "WhenOpened": "2025-10-16T05:51:59.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Q08.cs",
-              "DocumentMoniker": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q08.cs",
-              "RelativeDocumentMoniker": "day2\\Q08.cs",
-              "ToolTip": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q08.cs",
-              "RelativeToolTip": "day2\\Q08.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T09:52:41.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Q10.cs",
               "DocumentMoniker": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q10.cs",
               "RelativeDocumentMoniker": "day2\\Q10.cs",
               "ToolTip": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q10.cs",
               "RelativeToolTip": "day2\\Q10.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwB4AAAAXAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T09:52:37.168Z",
+              "WhenOpened": "2025-10-15T13:05:17.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Q09.cs",
-              "DocumentMoniker": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q09.cs",
-              "RelativeDocumentMoniker": "day2\\Q09.cs",
-              "ToolTip": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q09.cs",
-              "RelativeToolTip": "day2\\Q09.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBsAAAAMAAAA",
+              "DocumentIndex": 2,
+              "Title": "Q05.cs",
+              "DocumentMoniker": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q05.cs",
+              "RelativeDocumentMoniker": "day2\\Q05.cs",
+              "ToolTip": "C:\\Users\\dilshad.p\\source\\repos\\day2\\day2\\Q05.cs",
+              "RelativeToolTip": "day2\\Q05.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T09:42:38.949Z",
+              "WhenOpened": "2025-10-15T11:56:14.052Z",
               "EditorCaption": ""
             }
           ]

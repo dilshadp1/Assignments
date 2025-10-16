@@ -24,23 +24,24 @@ namespace day2
 
             if (checkPrimeResult)
             {
-                Console.WriteLine("The number " + number + " is prime.");
+                Console.WriteLine($"The number {number} is prime.");
             }
             else
             {
-                Console.WriteLine("The number " + number + " is not prime.");
+                Console.WriteLine($"The number {number} is not prime.");
             }
             Console.WriteLine();
         }
 
         public static bool CheckPrime(int num)
         {
+            if (num == 2)
+            {
+                return true;
+            }
+
             if (num < 2 || num%2==0)
             {
-                if (num == 2)
-                {
-                    return true;
-                }
                 return false;
             }
 

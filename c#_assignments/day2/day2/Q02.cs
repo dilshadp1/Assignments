@@ -14,14 +14,11 @@ namespace day2
         /// </summary>
         public void Answer()
         {
-            int counter = 0;
+            int counter = 1;
             while (counter<50) 
             {
-                if (counter % 2 != 0)
-                {
-                    Console.WriteLine("odd number = " + counter);
-                }
-                counter++;
+                Console.WriteLine($"odd number = {counter}");
+                counter +=2;
             }
             Console.WriteLine();
         }

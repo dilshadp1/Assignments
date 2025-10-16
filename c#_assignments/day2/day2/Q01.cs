@@ -15,9 +15,9 @@ namespace day2
         /// </summary>
         public void Answer()
         {
-            for (int counter = 0; counter <= 20; counter++) 
+            for (int counter = 1; counter <= 20; counter++) 
             {
-                Console.WriteLine("number = "+counter);
+                Console.WriteLine($"number = {counter}");
             }
             Console.WriteLine();
         }
