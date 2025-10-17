@@ -1,0 +1,14 @@
+C:\Users\dilshad.p\source\repos\UberRide\UberRide\bin\Debug\net8.0\UberRide.exe
+C:\Users\dilshad.p\source\repos\UberRide\UberRide\bin\Debug\net8.0\UberRide.deps.json
+C:\Users\dilshad.p\source\repos\UberRide\UberRide\bin\Debug\net8.0\UberRide.runtimeconfig.json
+C:\Users\dilshad.p\source\repos\UberRide\UberRide\bin\Debug\net8.0\UberRide.dll
+C:\Users\dilshad.p\source\repos\UberRide\UberRide\bin\Debug\net8.0\UberRide.pdb
+C:\Users\dilshad.p\source\repos\UberRide\UberRide\obj\Debug\net8.0\UberRide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilshad.p\source\repos\UberRide\UberRide\obj\Debug\net8.0\UberRide.AssemblyInfoInputs.cache
+C:\Users\dilshad.p\source\repos\UberRide\UberRide\obj\Debug\net8.0\UberRide.AssemblyInfo.cs
+C:\Users\dilshad.p\source\repos\UberRide\UberRide\obj\Debug\net8.0\UberRide.csproj.CoreCompileInputs.cache
+C:\Users\dilshad.p\source\repos\UberRide\UberRide\obj\Debug\net8.0\UberRide.dll
+C:\Users\dilshad.p\source\repos\UberRide\UberRide\obj\Debug\net8.0\refint\UberRide.dll
+C:\Users\dilshad.p\source\repos\UberRide\UberRide\obj\Debug\net8.0\UberRide.pdb
+C:\Users\dilshad.p\source\repos\UberRide\UberRide\obj\Debug\net8.0\UberRide.genruntimeconfig.cache
+C:\Users\dilshad.p\source\repos\UberRide\UberRide\obj\Debug\net8.0\ref\UberRide.dll
