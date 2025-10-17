@@ -16,12 +16,11 @@ namespace day3
         /// </summary>
         public static void Answer()
         {
-            int number1, number2;
-            decimal add, sub, mul, div, rem;
+            decimal number1, number2, add, sub, mul, div, rem;
             Console.Write("Enter first number : ");
-            int.TryParse(Console.ReadLine(), out number1);
+            decimal.TryParse(Console.ReadLine(), out number1);
             Console.Write("Enter second number : ");
-            int.TryParse(Console.ReadLine(), out number2);
+            decimal.TryParse(Console.ReadLine(), out number2);
 
             add=number1 + number2;
             sub=number1 - number2;
