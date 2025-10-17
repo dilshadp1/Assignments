@@ -26,7 +26,7 @@ namespace day3
             {
                 Console.WriteLine("Both number are equal");
             }
-            if (number1 != number2) 
+            if (number1 != number2)
             {
                 Console.WriteLine("Both number are not equal");
             }
@@ -56,11 +56,11 @@ namespace day3
             {
                 Console.WriteLine("one of the number is greater than 5");
             }
-            if (!(number1==number2))
+            if (!(number1 == number2))
             {
                 Console.WriteLine("number1 is not equal to number2");
             }
-            if (number1<4 & number2<4)
+            if (number1 < 4 & number2 < 4)
             {
                 Console.WriteLine("both numbers are lesser than 4");
             }
@@ -75,7 +75,7 @@ namespace day3
             }
             Console.WriteLine();
         }
-         
+
     }
-    
+
 }

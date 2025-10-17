@@ -17,8 +17,7 @@ namespace day3
         public static void Answer()
         {
             int number1, number2;
-            int add, sub, mul;
-            float div;
+            decimal add, sub, mul, div, rem;
             Console.Write("Enter first number : ");
             int.TryParse(Console.ReadLine(), out number1);
             Console.Write("Enter second number : ");
@@ -28,8 +27,9 @@ namespace day3
             sub=number1 - number2;
             mul=number1 * number2;
             div=number1 / number2;
+            rem= number1 % number2;
 
-            Console.WriteLine($"sum = {add}\ndifference = {sub}\nproduct = {mul}\ndivision = {div}");
+            Console.WriteLine($"sum = {add}\ndifference = {sub}\nproduct = {mul}\ndivision = {div}\nRemainder = {rem}");
             Console.WriteLine();
         }
          
