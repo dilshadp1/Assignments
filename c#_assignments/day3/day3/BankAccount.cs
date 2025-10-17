@@ -27,12 +27,12 @@ namespace day3
         
         }
 
-        public BankAccount(long acnum, string acholder)
+        public BankAccount(long accountNumber, string accountHolder)
         {
-            this.AccountNumber = acnum;
-            this.AccountHolder = acholder;
+            this.AccountNumber = accountNumber;
+            this.AccountHolder = accountHolder;
         }
-        public BankAccount(long acnum, string acholder, double balance) : this(acnum,acholder)
+        public BankAccount(long accountNumber, string accountHolder, double balance) : this(accountNumber, accountHolder)
         {
             this.Balance = balance;
         }
