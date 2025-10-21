@@ -1,0 +1,14 @@
+C:\Users\dilshad.p\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.exe
+C:\Users\dilshad.p\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+C:\Users\dilshad.p\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+C:\Users\dilshad.p\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+C:\Users\dilshad.p\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+C:\Users\dilshad.p\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilshad.p\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\dilshad.p\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\dilshad.p\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\dilshad.p\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+C:\Users\dilshad.p\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+C:\Users\dilshad.p\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+C:\Users\dilshad.p\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\dilshad.p\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll

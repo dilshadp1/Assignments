@@ -1,0 +1,11 @@
+C:\Users\dilshad.p\source\repos\TemperatureConverter\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.deps.json
+C:\Users\dilshad.p\source\repos\TemperatureConverter\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.dll
+C:\Users\dilshad.p\source\repos\TemperatureConverter\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.pdb
+C:\Users\dilshad.p\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilshad.p\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\dilshad.p\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.AssemblyInfo.cs
+C:\Users\dilshad.p\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\dilshad.p\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.dll
+C:\Users\dilshad.p\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\refint\TemperatureConverter.dll
+C:\Users\dilshad.p\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.pdb
+C:\Users\dilshad.p\source\repos\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\ref\TemperatureConverter.dll
