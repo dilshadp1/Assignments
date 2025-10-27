@@ -1,7 +1,7 @@
 
 -- String Functions
 
--- Create database (optional)
+-- Create database 
 CREATE DATABASE StringFunctionsDB;
 GO
 USE StringFunctionsDB;
