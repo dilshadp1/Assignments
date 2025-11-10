@@ -32,7 +32,10 @@ namespace Hotel.Management.Infrastructure.Implementations
         }
         public async Task<Review> GetReviewByIdAsync(int id)
         {
-            return await _dbcontext.Reviews.FirstOrDefaultAsync(h => h.Id == id);
+            return await _dbcontext.Reviews
+                .Include(r => r.HotelClass)
+                .Include(r => r.Customer)
+                .FirstOrDefaultAsync(h => h.Id == id);
         }
         public async Task<List<Review>> GetAllReviewsAsync()
         {

@@ -15,10 +15,16 @@ namespace Hotel.Management.Application.Commands
     public class CreateBookingCommandHandler : IRequestHandler<CreateBookingCommand, BookingResponseDTO>
     {
         private readonly IBookingRepository _bookingRepository;
+        private readonly ICustomerRepository _customerRepository;
+        private readonly IRoomRepository _roomRepository;
 
-        public CreateBookingCommandHandler(IBookingRepository BookingRepository)
+        public CreateBookingCommandHandler(IBookingRepository bookingRepository,
+                                     ICustomerRepository customerRepository,
+                                     IRoomRepository roomRepository)
         {
-            _bookingRepository = BookingRepository;
+            _bookingRepository = bookingRepository;
+            _customerRepository = customerRepository;
+            _roomRepository = roomRepository;
         }
 
         public async Task<BookingResponseDTO> Handle(CreateBookingCommand request, CancellationToken cancellationToken)
@@ -29,16 +35,19 @@ namespace Hotel.Management.Application.Commands
                 CheckOutDate = request.CheckOutDate,
                 CustomerId = request.CustomerId,
                 RoomId = request.RoomId,
-                Status = BookingStatus.Pending
+                Status = BookingStatus.Pending,
+                TotalAmount = 0
             };
 
             var result = await _bookingRepository.AddBookingAsync(booking);
+            var customer = await _customerRepository.GetCustomerByIdAsync(result.CustomerId);
+            var room = await _roomRepository.GetRoomByIdAsync(result.RoomId);
 
             return new BookingResponseDTO
             {
                 Id = result.Id,
-                CustomerName = customer?.FullName ?? "Customer Not Found",
-                RoomNumber = room?.RoomNumber ?? "Room Not Found",
+                CustomerName = customer?.FullName ?? "N/A",
+                RoomNumber = room?.RoomNumber ?? "N/A",
                 Status = result.Status
 
             };

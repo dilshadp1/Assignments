@@ -28,7 +28,7 @@ namespace HotelMangement.Controllers
                 HotelClassId = dto.HotelClassId,
                 RoomTypeId = dto.RoomTypeId,
                 PricePerNight = dto.PricePerNight,
-                Status = RoomStatus.Available
+                Status = dto.Status
             };
             var result = await _mediator.Send(command);
             return Ok(result);

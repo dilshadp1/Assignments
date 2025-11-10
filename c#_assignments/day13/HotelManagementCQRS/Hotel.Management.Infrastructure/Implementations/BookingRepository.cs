@@ -32,7 +32,10 @@ namespace Hotel.Management.Infrastructure.Implementations
         }
         public async Task<Booking> GetBookingByIdAsync(int id)
         {
-            return await _dbcontext.Bookings.FirstOrDefaultAsync(h => h.Id == id);
+            return await _dbcontext.Bookings
+                .Include(b => b.Customer)
+                .Include(b => b.Room)
+                .FirstOrDefaultAsync(h => h.Id == id);
         }
         public async Task<List<Booking>> GetAllBookingsAsync()
         {

@@ -27,6 +27,7 @@ namespace Hotel.Management.Application.Commands
             if (room == null)
                 return null;
 
+            room.RoomNumber = request.RoomNumber ?? room.RoomNumber;
             room.Status = request.Status;
             room.PricePerNight = request.PricePerNight;
 

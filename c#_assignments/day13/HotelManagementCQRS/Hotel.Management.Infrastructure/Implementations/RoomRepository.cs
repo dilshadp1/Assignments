@@ -32,7 +32,10 @@ namespace Hotel.Management.Infrastructure.Implementations
         }
         public async Task<Room> GetRoomByIdAsync(int id)
         {
-            return await _dbcontext.Rooms.FirstOrDefaultAsync(h => h.Id == id);
+            return await _dbcontext.Rooms
+                .Include(r => r.HotelClass)
+                .Include(r => r.RoomType)
+                .FirstOrDefaultAsync(h => h.Id == id);
         }
         public async Task<List<Room>> GetAllRoomsAsync()
         {
