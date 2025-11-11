@@ -1,0 +1,13 @@
+<div class="customer-list-container">
+  <h2>All Customers</h2>
+
+  <div *ngFor="let customer of fakeCustomers" class="customer-card">
+    <h3>{{ customer.name }}</h3>
+
+    <a [routerLink]="['/customers', customer.id]">View Details (with routerLink)</a>
+
+    <button (click)="goToCustomerDetails(customer)">
+      View Details (Programmatic)
+    </button>
+  </div>
+</div>

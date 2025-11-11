@@ -1,0 +1,13 @@
+<h2>All Hotels</h2>
+
+<div *ngFor="let hotel of fakeHotels" class="hotel-card">
+  <h3>{{ hotel.name }}</h3>
+  <p>{{ hotel.city }}</p>
+
+  <a [routerLink]="['/hotels', hotel.id]">View Details (with routerLink)</a>
+
+  <button (click)="goToHotelDetails(hotel.id)">
+    View Details (Programmatic)
+  </button>
+  
+</div>
