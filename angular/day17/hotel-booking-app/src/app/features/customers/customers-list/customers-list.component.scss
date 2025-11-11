@@ -1,0 +1,66 @@
+/* A container for the whole list */
+.customer-list-container {
+  padding: 20px;
+  max-width: 900px;
+  margin: auto;
+
+  h2 {
+    font-size: 2rem;
+    color: #333;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+  }
+}
+
+/* Style for each individual customer "card" */
+.customer-card {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-wrap: wrap; // Allows items to wrap on small screens
+  align-items: center;
+  gap: 15px;
+
+  h3 {
+    font-size: 1.5rem;
+    color: #444;
+    margin: 0;
+    flex-grow: 1; // Allows the name to take up available space
+  }
+
+  /* Style for the link */
+  a {
+    display: inline-block;
+    text-decoration: none;
+    color: #007bff;
+    font-weight: 600;
+    padding: 10px 15px;
+    border-radius: 5px;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  /* Style for the button */
+  button {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #fff;
+    background-color: #28a745; // A green color
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+
+    &:hover {
+      background-color: #218838; // A darker green
+    }
+  }
+}

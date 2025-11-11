@@ -1,0 +1,20 @@
+<h2>Hotel Details Page</h2>
+<div class="selection-box" *ngIf="currentSelectedRoom">
+  You have selected: <strong>{{ currentSelectedRoom.type }}</strong>
+  (Price: ${{ currentSelectedRoom.price }})
+</div>
+
+<p>This is the main details page...</p>
+
+
+<nav>
+  <ul>
+    <li><a routerLink="rooms">Rooms</a></li>
+    <li><a routerLink="employees">Employees</a></li>
+    <li><a routerLink="reviews">Reviews</a></li>
+  </ul>
+</nav>
+
+<router-outlet
+  (activate)="onChildActivated($event)">
+</router-outlet>

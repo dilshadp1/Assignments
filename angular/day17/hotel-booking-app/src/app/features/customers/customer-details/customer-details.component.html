@@ -1,0 +1,8 @@
+<h2>Customer Details Page</h2>
+
+<div *ngIf="selectedCustomer.name" class="details-card">
+  <h3>{{ selectedCustomer.name }}</h3>
+  <p><strong>ID:</strong> {{ selectedCustomer.id }}</p>
+  <p><strong>Email:</strong> {{ selectedCustomer.email }}</p>
+  <p><strong>Phone:</strong> {{ selectedCustomer.phoneNumber }}</p>
+</div>

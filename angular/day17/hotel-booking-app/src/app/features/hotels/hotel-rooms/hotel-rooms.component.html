@@ -1,0 +1,15 @@
+<h4>Rooms Section</h4>
+<p>
+  This is the Rooms component for:
+  <strong>{{ hotelData.name }}</strong>
+</p>
+<p>
+  (Data was passed from the parent HotelDetailsComponent using &#64;Input!)
+</p>
+<hr> <h4>Available Rooms:</h4>
+
+<div *ngFor="let room of fakeRooms" class="room-card">
+  <strong>{{ room.type }}</strong> - ${{ room.price }}/night
+
+  <button (click)="onSelectRoom(room)">Select Room</button>
+</div>
